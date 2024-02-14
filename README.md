@@ -1,4 +1,4 @@
-Purpose
+# Purpose
 
 YouTube playlists can quickly accumulate a large number of videos, making them difficult to manage. yt-playlist-cleaner provides a solution to streamline this process by automating tasks such as deleting liked videos or managing the "Watch Later" playlist.
 
